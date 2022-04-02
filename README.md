@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @bradraff
 - 👀 I’m interested in research & development, flying things, fluid flow, and all things data
-- 📫 Reach me at: brjrafferty@gmail.com
+- ✍️ I enjoy:
+     - [writing and inventing](https://scholar.google.com/citations?user=SF6_io8AAAAJ&hl=en)
+     - cycling
+     - tinkering
+- 📫 Reach me at brjrafferty@gmail.com
 
 <!---
 bradraff/bradraff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
