@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bradraff
-- 👀 I’m interested in research & development, flying things, fluid flow, and all things data
+- 👀 I’m interested in research & development, experiments, flying things, fluid flow, and all things data
 - ✍️ I enjoy:
      - [writing and inventing](https://scholar.google.com/citations?user=SF6_io8AAAAJ&hl=en)
      - cycling
